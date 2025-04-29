@@ -1,8 +1,8 @@
 # XShell-Themes
 Themes/Skins for XShell (Xbox 360 Development Dash)
 
-[Chill in Space](../XShell Themes/Chill in Space)
-![Chill in Space](../Previews/Chill in Space Preview.png)
+[Chill in Space](https://github.com/Tyzeh/XShell-Themes/tree/main/XShell%20Themes/Chill%20in%20Space)
+![Chill in Space](https://github.com/Tyzeh/XShell-Themes/blob/main/Previews/Chill%20in%20Space%20Preview.png)
 
 [Cipher](/XShell Themes/Cipher)
 ![Cipher](/Previews/Cipher Preview.png)
